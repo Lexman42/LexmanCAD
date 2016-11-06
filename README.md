@@ -9,7 +9,7 @@ Each project follows the autoloader template requested by Autodesk to expedite g
 ## Projects
 - **Flatten** - Convert 3D/2D plines into 2D/3D plines - [Github](https://github.com/Lexman42/LexmanCAD-Flatten) / [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=7290135081700538881&appLang=en&os=Win32_64)
 - **FindMeXYZ** - Interactively create and position annotations of object properties - [Github](https://github.com/Lexman42/LexmanCAD-FindMeXYZ) / [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=4081568606009015228&appLang=en&os=Win32_64)
-- **DWGLogger** - Automate logging of CAD files - [Github](https://github.com/Lexman42/LexmanCAD-DWGLogger) [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=6703266216843000184&appLang=en&os=Win32_64)
+- **DWGLogger** - Automate logging of CAD files - [Github](https://github.com/Lexman42/LexmanCAD-DWGLogger) / [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=6703266216843000184&appLang=en&os=Win32_64)
 - **CADLog** - import/export drawings to csv, leverage excel to proceduraly generate objects - [Github](https://github.com/Lexman42/LexmanCAD-CADLog) / [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=8105152937977072981&appLang=en&os=Win32_64)
 
 ## Licensing/Contributing/Maintaining
