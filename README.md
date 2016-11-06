@@ -7,10 +7,10 @@ Each project follows the autoloader template requested by Autodesk to expedite g
 - xxx.cuix - ribbon bar (for menu entries, icons, and button layout)
 
 ## Projects
-- [Flatten](https://github.com/Lexman42/LexmanCAD-Flatten) - Convert 3D/2D plines into 2D/3D plines
-- [FindMeXYZ](https://github.com/Lexman42/LexmanCAD-FindMeXYZ) - Interactively create and position annotations of object properties
-- [DWGLogger](https://github.com/Lexman42/LexmanCAD-DWGLogger) - Automate logging of CAD files
-- [CADLog](https://github.com/Lexman42/LexmanCAD-CADLog) - import/export drawings to csv, leverage excel to proceduraly generate objects
+- **Flatten** - Convert 3D/2D plines into 2D/3D plines - [Github](https://github.com/Lexman42/LexmanCAD-Flatten) / [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=7290135081700538881&appLang=en&os=Win32_64)
+- **FindMeXYZ** - Interactively create and position annotations of object properties - [Github](https://github.com/Lexman42/LexmanCAD-FindMeXYZ) / [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=4081568606009015228&appLang=en&os=Win32_64)
+- **DWGLogger** - Automate logging of CAD files - [Github](https://github.com/Lexman42/LexmanCAD-DWGLogger) [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=6703266216843000184&appLang=en&os=Win32_64)
+- **CADLog** - import/export drawings to csv, leverage excel to proceduraly generate objects - [Github](https://github.com/Lexman42/LexmanCAD-CADLog) / [AppStore](https://apps.autodesk.com/ACD/en/Detail/Index?id=8105152937977072981&appLang=en&os=Win32_64)
 
 ## Licensing/Contributing/Maintaining
 This project is being open sourced under the MIT license. For the fine print, see the LICENSE file in each repo. You are more than welcome to fork, build off the code, expand it, launch new apps in the app store, etc. If you are interested in maintaining the current LexmanCAD apps that are in the app store (ie. making your updates available to current users) please get in touch, I'm currently not setup for any Autodesk development or QA.
