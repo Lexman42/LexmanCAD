@@ -2,7 +2,7 @@
 LexmanCAD was a weekend project that I started while in school to expand some AutoCAD2013 functionality that wasn't available to vanilla users. Somehow, these tools wound up actually being used on the AutoCAD app store. The basic theme is to solve some of the small annoyances that CAD drafters deal with day in and day out. I've long left the AutoCAD scene for web development, but, I'm hoping that by open sourcing this, the code can live on and be updated for more recent versions of Autodesk products.
 
 ## Repo Structure
-Each project follows the autoloader template requested by Autodesk to expedite getting code and documentation onto the their app store. Detailed information can be found at [this page](http://usa.autodesk.com/adsk/servlet/item?siteID=123112&id=20143020). The installer can be used if you want to try the app out (this is the same installer that you currently get from the app store). If you are just interested in the code, there are really only two files that matter:
+Each project follows the autoloader template requested by Autodesk to expedite getting code and documentation onto their app store. Detailed information can be found at [this page](http://usa.autodesk.com/adsk/servlet/item?siteID=123112&id=20143020). The installer can be used if you want to try the app out (this is the same installer that you currently get from the app store). If you are just interested in the code, there are really only two files that matter:
 - xxx.lsp - the vlisp code
 - xxx.cuix - ribbon bar (for menu entries, icons, and button layout)
 
